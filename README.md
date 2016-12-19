@@ -1,2 +1,2 @@
-# hello-world
-just a simple project
+hello-world
+Just a simple project that is to print "hello world".
